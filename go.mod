@@ -1,4 +1,4 @@
-module github.com/microcosm-cc/bluemonday
+module github.com/mason-stewart/bluemonday
 
 go 1.19
 
